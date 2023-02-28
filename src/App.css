@@ -1,0 +1,19 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 0;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 42px;
+  color: #183b56;
+  margin-bottom: 30px;
+}
